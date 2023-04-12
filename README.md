@@ -93,6 +93,7 @@ To begin with, follow the steps below to set up your notebook server:
 ### Running the Project
 
 Please follow these steps to run the project:
+
 **NOTE:** You may need to install additional dependencies like TensorFlow for the project to work properly.
 
 - #### Train and Run the Model
