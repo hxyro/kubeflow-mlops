@@ -121,5 +121,3 @@ Please follow these steps to run the project:
   You can now test the model using the `project/test_model.ipynb` notebook.
   ![alt text.](screenshots/test/test-0.png)
   ![alt text.](screenshots/test/test-2.png)
-
-For a more detailed explanation of the setup process, please refer to the video file provided [video](https://drive.google.com/file/d/1cRjWU-ryfHri8hoGlzcR7FC_PcIrgcdi/view?usp=sharing). It contains a comprehensive walkthrough of all the steps involved.
